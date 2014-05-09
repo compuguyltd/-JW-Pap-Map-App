@@ -1,0 +1,21 @@
+Foreign Language Slips and Maps
+
+When a map is returned check for foreign language slips (green) and do not call slips.
+
+Look at each DNC slip to see if the publishers have found any mistakes on the slips.
+
+
+Green slips.
+Check each slip has a territory map number.
+Go into the map disk and update the house/road number.
+Be sure to change the date on the file and reprint the DNC slips.
+Throw out old slips and replace with the new.
+Open the ethnic group file and update the map/road/number.
+Put like languages together and give the green slips to the congregation sectretary.
+
+
+House to House Records.
+Combine where possible onto less sheets. Give to Territory Overseer or groups.
+Any dog/locked etc can go on a separate sheet for the telephone witnessing group.
+
+
